@@ -21,10 +21,11 @@ V1 - V3 版本现已无法访问，但你可以在[此链接](https://v3.qaguati
 - [异想之旅のBlog](https://blog.yxzl.dev/)
 - [个人主页 | Honahec](https://honahec.cc/)
 - [Modenc](https://modenc.top/)
+- [Iron_Grey_](https://irongrey.top/)
 
 ## 联系
 
 你可以：
 
 - [发布一个 Issue](https://github.com/QingdaoAcademy/.github/issues/new)
-- 邮件：gt@qaguatian.com（也可以联系在上面“我们”中列出的任意成员的邮箱）
+- 邮件：hcc@qdzx.icu（也可以联系在上面“我们”中列出的任意成员的邮箱）
